@@ -52,13 +52,7 @@ This project allows users to manage employee records efficiently with database i
 
 ---
 
-## 🚀 Application Demo
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/da502dd8-0196-40ef-9b8e-d2455e233154" width="700"/>
-</p>
-
----
 
 ## 👨‍💻 Developer
 
@@ -68,3 +62,4 @@ B.Tech – Computer Science & Engineering
 ---
 
 ⭐ If you like this project, give it a star!
+
