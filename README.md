@@ -1,8 +1,8 @@
 <table>
 <tr>
-<td width="200">
+<td width="220">
 
-<img src="assets/demo.gif" width="180"/>
+<img src="https://github.com/user-attachments/assets/da502dd8-0196-40ef-9b8e-d2455e233154" width="200"/>
 
 </td>
 <td>
@@ -30,37 +30,41 @@ This project allows users to manage employee records efficiently with database i
 
 ## 🧩 Features
 
-Add New Employee  
-View All Employees  
-Search Employee by ID  
-Update Employee Details  
-Delete Employee  
-Database Connectivity using JDBC  
-Custom Exception Handling  
-Layered Architecture (Service + Model)
+- Add New Employee  
+- View All Employees  
+- Search Employee by ID  
+- Update Employee Details  
+- Delete Employee  
+- Database Connectivity using JDBC  
+- Custom Exception Handling  
+- Layered Architecture (Service + Model)
 
 ---
 
 ## 🛠 Technologies Used
 
-- Java
-- JDBC
-- MySQL Database
-- Object-Oriented Programming
-- Exception Handling
-- SQL Queries
+- Java  
+- JDBC  
+- MySQL Database  
+- Object-Oriented Programming  
+- Exception Handling  
+- SQL Queries  
 
 ---
 
 ## 🚀 Application Demo
 
 <p align="center">
-  <img src="[assets/demo.gif](https://www.google.com/search?tbnid=rU_1M5QHJBfpbM&tbnh=0&tbnw=0&sca_esv=5b6dfac1f9c325dc&cs=1&sxsrf=ANbL-n4Ml3XYt4e7SrHkXUELbk2oTC4taw:1770837692757&udm=2&q=management+system+gif&sa=X&ved=2ahUKEwiOj4W9lNKSAxWoWHADHczFBYoQtI8BegQINBAB&biw=1920&bih=911&dpr=1#sv=CAMSVhoyKhBlLTNGS05RVVNoQ05zY2FNMg4zRktOUVVTaENOc2NhTToOR0czNVpudk03Q04zNU0gBCocCgZtb3NhaWMSEGUtM0ZLTlFVU2hDTnNjYU0YADABGAcgj474xAwwAkoIEAIYAiACKAI)" width="700"/>
+  <img src="https://github.com/user-attachments/assets/da502dd8-0196-40ef-9b8e-d2455e233154" width="700"/>
 </p>
 
 ---
 
 ## 👨‍💻 Developer
 
-Abhay Kumar Singh  
-B.Tech – Computer Scienc
+**Abhay Kumar Singh**  
+B.Tech – Computer Science & Engineering  
+
+---
+
+⭐ If you like this project, give it a star!
