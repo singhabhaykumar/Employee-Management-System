@@ -38,15 +38,16 @@ This project simulates real-world banking operations such as account creation, d
 
 ---
 
-## 🧠 OOP Concepts Implemented
+##  OOP Concepts Implemented
 
-- 🔒 Encapsulation  
-- 🏗 Classes & Objects  
-- 📦 Abstraction  
-- 📊 Dynamic Storage using `vector<BankAccount>`  
+-  Encapsulation  
+- Classes & Objects  
+-  Abstraction  
+-  Dynamic Storage using `vector<BankAccount>`  
 - 🔍 Pointer-based Account Lookup  
 
 ---
 
 ## 📂 Project Structure
+
 
